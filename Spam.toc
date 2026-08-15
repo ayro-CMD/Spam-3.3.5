@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: Spam
+## Notes: Auto-spam and auto-reply system (multi-channel)
+## Author: ayro
+## Version: 1.5
+## SavedVariables: SpamDB
+## X-Category: Interface Enhancements
+## X-Website:
+## X-License: All Rights Reserved
+
+Spam.lua
